@@ -18,7 +18,9 @@ Trotz dieser Schwierigkeiten ist es dem Projektteam gelungen, Werkzeuge, Program
 
 **Soweit nicht anders vermerkt, sind die hier abgelegten Materialien unter der CC0 1.0 Universell (CC0 1.0) Public Domain Dedication verfügbar: [http://creativecommons.org/publicdomain/zero/1.0/deed.de](http://creativecommons.org/publicdomain/zero/1.0/deed.de)**
 
-**Links:**
+**Achtung:**
+
+Die hier abgelegten Programme verwenden für die XSL-Transformationen die *Streaming*-Funktionen von SaxonEE in der Version 9.3. Hierzu ist eine Lizenz notwendig, die dem Repository **nicht** beiliegt.
 
 **Links:**
 
